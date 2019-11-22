@@ -1,3 +1,3 @@
-### 1.1.0 ###
+### 1.0.0 ###
 
-* Moved to github hosted private repo
+* Moved to github hosted public repo

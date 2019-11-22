@@ -1,9 +1,9 @@
-# Q Program #
+# Q FormAssembly #
 **Contributors:** qlstudio  
-**Tags:** programs
+**Tags:** Form
 **Requires at least:** 4.0  
 **Tested up to:** 5.0.0  
-**Stable tag:** 1.1.0  
+**Stable tag:** 1.0.0  
 **License:** GPL2  
 
-Program Controller
+Embed a FormAssembly Web Form in a WordPress Post
