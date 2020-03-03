@@ -1,9 +1,10 @@
 <?php
+
 /*
 Plugin Name: Q FormAssembly
 Plugin URI: http://www.wordpress.org/plugin/
 Description: Embed a FormAssembly Web Form in a WordPress Post
-Version: 1.0.0
+Version: 1.1.0
 Author: Q Studio / FormAssembly.com  / Drew Buschhorn
 Author URI: http://qstudio.us/
 Forked from: http://www.formassembly.com/plugins/wordpress/
@@ -13,7 +14,7 @@ GitHub Plugin URI: qstudio/q-formassembly
 /**
  * Forked version of fa_add altered to work without shortcode
  *
- * @param  array $atts  attributes for getting form
+ * @param  array        $atts  attributes for getting form
  * @return string       HTML for form
  */
 function q_fa_add( $atts )
